@@ -1,0 +1,8 @@
+
+path: D:/SHIVAA/CODES/ANIMAL
+train: D:/SHIVAA/CODES/ANIMAL/train
+val: D:/SHIVAA/CODES/ANIMAL/valid
+
+nc: 15
+names: ['Bear', 'Brown-bear', 'Bull', 'Cheetah', 'Crocodile', 'Elephant', 'Fox', 'Hippopotamus', 'Jaguar', 'Leopard', 'Lion', 'Panda', 'Pig', 'Rhinoceros', 'Tiger']
+
